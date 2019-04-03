@@ -22,7 +22,7 @@ namespace AED_2
             this.Dado = d;
 
         }
-
+        
         internal Multas Dado
         {
             get
